@@ -1,0 +1,9 @@
+chalk_board.jpg
+800x600
+x_offset = 25
+y_offset = 27
+width = 750
+height = 525
+
+cell_size -> 25x25
+board_size -> 30 x 21
